@@ -7,7 +7,7 @@ This project is an **IoT-based temperature and humidity monitoring system** usin
 🎚️ Wokwi: https://wokwi.com/projects/400152858210581505  
 🛜 ThingSpeak Data: https://thingspeak.com/channels/2572976/sharing
 
-![image](https://github.com/user-attachments/assets/afd24360-4bf0-40fa-8fb1-fef7bf71d6bc)
+![image](https://github.com/user-attachments/assets/6d6a54d7-4d31-440a-a260-e78569b7eb0e)
 
 ## Tech Stack
 - **ESP32** – Microcontroller for data processing and communication  
