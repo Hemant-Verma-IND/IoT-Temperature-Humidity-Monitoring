@@ -7,12 +7,16 @@ This project is an **IoT-based temperature and humidity monitoring system** usin
 🎚️ Wokwi: https://wokwi.com/projects/400152858210581505  
 🛜 ThingSpeak Data: https://thingspeak.com/channels/2572976/sharing
 
+![image](https://github.com/user-attachments/assets/afd24360-4bf0-40fa-8fb1-fef7bf71d6bc)
+
 ## Tech Stack
 - **ESP32** – Microcontroller for data processing and communication  
 - **DHT22 Sensor** – Measures temperature and humidity  
 - **Arduino IDE** – Development environment for coding and flashing ESP32  
 - **Wokwi** – Online simulator for prototyping and debugging  
 - **ThingSpeak API** – Cloud platform for storing and visualizing sensor data  
+
+![image](https://github.com/user-attachments/assets/da1cb8dc-57a3-4be9-9b10-999a5ef2cea7)
 
 ## Features
 ✅ **Real-time Temperature and Humidity Monitoring** using DHT22  
