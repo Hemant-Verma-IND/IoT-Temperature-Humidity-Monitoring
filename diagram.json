@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "Hemant Verma",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-dht22", "id": "dht1", "top": -9.3, "left": 157.8, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:15", "dht1:SDA", "green", [ "v0", "h52.84" ] ],
+    [ "dht1:VCC", "esp:3V3", "red", [ "h-38.4", "v-115.2", "h-144", "v38.4" ] ],
+    [ "dht1:GND", "esp:GND.1", "black", [ "v124.8", "h-230.4", "v-76.8" ] ]
+  ],
+  "dependencies": {}
+}
