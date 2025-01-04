@@ -4,7 +4,7 @@
 This project is an **IoT-based temperature and humidity monitoring system** using an **ESP32 microcontroller** and a **DHT22 sensor**. It collects real-time environmental data and transmits it to the **ThingSpeak cloud platform** for visualization and analysis. The system allows users to monitor temperature and humidity remotely, making it useful for smart home applications, weather monitoring, and industrial environments.
 
 ## Simulation
-🎚️ Wokwi: https://wokwi.com/projects/400152858210581505
+🎚️ Wokwi: https://wokwi.com/projects/400152858210581505  
 🛜 ThingSpeak Data: https://thingspeak.com/channels/2572976/sharing
 
 ## Tech Stack
